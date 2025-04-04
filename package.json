@@ -1,7 +1,7 @@
 {
 	"name": "ersatt-typografiska-tecken",
 	"version": "1.0.0",
-	"description": "Search and replace citation marks",
+	"description": "Search and replace quotation marks",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
