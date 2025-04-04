@@ -8,4 +8,4 @@ The plugin also places commas outside the ending quotation mark instead of insid
 ## Usage
 
 Once installed, the plugin must also be activated to be available in the ribbon. 
-Click on the icon to change all quotationmarks in the active note to swedish standard.
+Click on the icon to change all quotation marks in the active note to swedish standard.
