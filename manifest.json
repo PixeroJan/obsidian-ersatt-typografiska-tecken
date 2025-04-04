@@ -1,0 +1,11 @@
+{
+	"id": "ersatt-typografiska-tecken",
+	"name": "Ersätt typografiska tecken",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Search and replace citation marks",
+	"author": "Jan Sandstrom",
+	"authorUrl": "https://www.pixero.com",
+	"fundingUrl": "https://www.pixero.com",
+	"isDesktopOnly": false
+}
